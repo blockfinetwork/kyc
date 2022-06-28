@@ -1,3 +1,3 @@
-# README
+README.md
 
-Official KYC repository for https://blockfi.network
+# Official KYC repository for https://blockfi.network
